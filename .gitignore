@@ -1,0 +1,22 @@
+# STM32CubeIDE
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# STM32 build artifacts
+*.map
+*.elf
+*.hex
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
