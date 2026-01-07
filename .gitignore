@@ -20,3 +20,8 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Visual Studio
+.vs/
+*.suo
+*.user
